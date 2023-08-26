@@ -1,0 +1,1 @@
+{"name":"Local: bellmanFord","url":"f:\\COODES\\bellmanFord.cpp","tests":[{"id":1692985527698,"input":"4 5\n1 2 10\n2 3 10\n1 3 100\n3 1 -10\n2 3 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\COODES\\bellmanFord.cpp","group":"local","local":true}
